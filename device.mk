@@ -76,6 +76,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GoogleCameraGo
 
+# Charger
+include $(LOCAL_PATH)/rootdir/charger/charger.mk
+
 # Display
 PRODUCT_PACKAGES += \
     libdisplayconfig \
