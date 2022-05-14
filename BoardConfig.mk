@@ -53,7 +53,7 @@ TARGET_USES_QTI_CAMERA_DEVICE := true
 # Display
 TARGET_USES_HWC2 := true
 TARGET_USES_ION := true
-TARGET_SCREEN_DENSITY := 480
+TARGET_SCREEN_DENSITY := 440
 
 # Enable real time lockscreen charging current values
 BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
