@@ -21,19 +21,19 @@
     <dimen name="navigation_side_padding">85dp</dimen>
 
     <!-- The padding on the start of the statusbar -->
-    <dimen name="status_bar_padding_start">8dp</dimen>
+    <dimen name="status_bar_padding_start">0dp</dimen>
 
     <!-- The padding on the end of the statusbar -->
-    <dimen name="status_bar_padding_end">6dp</dimen>
+    <dimen name="status_bar_padding_end">0dp</dimen>
 
    <!-- The padding on the top of the statusbar -->
-    <dimen name="status_bar_padding_top">4dp</dimen>
+    <dimen name="status_bar_padding_top">8dp</dimen>
      
     <!-- Margin on the right side of the system icon group on Keyguard. -->
     <dimen name="system_icons_keyguard_padding_end">8dp</dimen>
 
     <!-- Rounded corner content padding -->
-    <dimen name="rounded_corner_content_padding">20dp</dimen>
+    <dimen name="rounded_corner_content_padding">28dp</dimen>
 
     <!-- Location on the screen of the center of the physical power button -->
     <dimen name="physical_power_button_center_screen_location_y">987.5px</dimen>
