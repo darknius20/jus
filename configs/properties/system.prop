@@ -43,6 +43,12 @@ ro.netflix.bsp_rev=Q6115-31409-1
 # System
 persist.sys.binary_xml=false
 
+# Iorapd
+ro.iorapd.enable=false
+iorapd.perfetto.enable=false
+iorapd.readahead.enable=false
+persist.device_config.runtime_native_boot.iorap_readahead_enable=false
+
 # ZRAM
 ro.zram.mark_idle_delay_mins=60
 ro.zram.first_wb_delay_mins=1440
