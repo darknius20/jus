@@ -18,8 +18,8 @@
 -->
 <resources>
 
-    <!-- Disable UI touch sounds by default -->
-    <bool name="def_sound_effects_enabled">false</bool>
+    <!-- Enable UI touch sounds by default -->
+    <bool name="def_sound_effects_enabled">true</bool>
 
     <!-- Speed up the animations -->
     <fraction name="def_window_animation_scale">50%</fraction>
